@@ -1,0 +1,8 @@
+prefix=/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/demo_teleop
+
+Name: demo_teleop
+Description: Description of demo_teleop
+Version: 0.0.0
+Cflags: -I/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/demo_teleop/include
+Libs: -L/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/demo_teleop/lib 
+Requires: 

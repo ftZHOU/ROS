@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/koala_description/share/koala_description/cmake/koala_descriptionConfig-version.cmake

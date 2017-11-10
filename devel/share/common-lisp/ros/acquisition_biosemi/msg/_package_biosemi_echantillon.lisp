@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi/share/common-lisp/ros/acquisition_biosemi/msg/_package_biosemi_echantillon.lisp

@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/carthoAuto/share/carthoAuto/cmake/carthoAutoConfig-version.cmake

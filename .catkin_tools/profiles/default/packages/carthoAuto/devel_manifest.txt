@@ -1,0 +1,4 @@
+carthoAuto
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/carthoAuto/lib/pkgconfig/carthoAuto.pc /usr/users/promo2018/zhou_fen/catkin_ws/devel/lib/pkgconfig/carthoAuto.pc
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/carthoAuto/share/carthoAuto/cmake/carthoAutoConfig.cmake /usr/users/promo2018/zhou_fen/catkin_ws/devel/share/carthoAuto/cmake/carthoAutoConfig.cmake
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/carthoAuto/share/carthoAuto/cmake/carthoAutoConfig-version.cmake /usr/users/promo2018/zhou_fen/catkin_ws/devel/share/carthoAuto/cmake/carthoAutoConfig-version.cmake

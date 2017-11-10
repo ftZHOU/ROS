@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/robo_auto/share/robo_auto/cmake/robo_autoConfig.cmake

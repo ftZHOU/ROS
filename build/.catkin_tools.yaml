@@ -1,0 +1,6 @@
+devel_space: /usr/users/promo2018/zhou_fen/catkin_ws/devel
+install: false
+install_space: /usr/users/promo2018/zhou_fen/catkin_ws/install
+profile: default
+source_space: /usr/users/promo2018/zhou_fen/catkin_ws/src
+workspace: /usr/users/promo2018/zhou_fen/catkin_ws

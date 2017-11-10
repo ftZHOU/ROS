@@ -1,0 +1,8 @@
+prefix=/usr/users/promo2018/zhou_fen/catkin_ws/install
+
+Name: robo_auto
+Description: Description of robo_auto
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/users/promo2018/zhou_fen/catkin_ws/install/lib 
+Requires: 

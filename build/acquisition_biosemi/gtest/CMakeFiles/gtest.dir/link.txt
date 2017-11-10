@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/usr/users/promo2018/zhou_fen/catkin_ws/build/acquisition_biosemi/gtest/src -lpthread -Wl,-rpath,/usr/users/promo2018/zhou_fen/catkin_ws/build/acquisition_biosemi/gtest/src 

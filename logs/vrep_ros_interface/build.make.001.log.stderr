@@ -1,0 +1,16 @@
+In file included from [01m[K/usr/users/promo2018/zhou_fen/catkin_ws/src/v_repExtRosInterface/src/stubs.cpp:1:0[m[K:
+[01m[K/usr/users/promo2018/zhou_fen/catkin_ws/src/v_repExtRosInterface/include/stubs.h:11:22:[m[K [01;31m[Kfatal error: [m[Kv_repLib.h: Aucun fichier ou dossier de ce type
+ #include <v_repLib.h>
+[01;32m[K                      ^[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/v_repExtRosInterface.dir/src/stubs.cpp.o] Erreur 1
+make[2]: *** Attente des tâches non terminées....
+In file included from [01m[K/usr/users/promo2018/zhou_fen/catkin_ws/src/v_repExtRosInterface/include/vrep_ros_interface.h:107:0[m[K,
+                 from [01m[K/usr/users/promo2018/zhou_fen/catkin_ws/src/v_repExtRosInterface/src/vrep_ros_interface.cpp:1[m[K:
+[01m[K/usr/users/promo2018/zhou_fen/catkin_ws/src/v_repExtRosInterface/include/stubs.h:11:22:[m[K [01;31m[Kfatal error: [m[Kv_repLib.h: Aucun fichier ou dossier de ce type
+ #include <v_repLib.h>
+[01;32m[K                      ^[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/v_repExtRosInterface.dir/src/vrep_ros_interface.cpp.o] Erreur 1
+make[1]: *** [CMakeFiles/v_repExtRosInterface.dir/all] Erreur 2
+make: *** [all] Erreur 2

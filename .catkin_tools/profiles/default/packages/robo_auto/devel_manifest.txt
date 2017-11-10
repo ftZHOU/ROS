@@ -1,0 +1,4 @@
+robo_auto
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/robo_auto/lib/pkgconfig/robo_auto.pc /usr/users/promo2018/zhou_fen/catkin_ws/devel/lib/pkgconfig/robo_auto.pc
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/robo_auto/share/robo_auto/cmake/robo_autoConfig.cmake /usr/users/promo2018/zhou_fen/catkin_ws/devel/share/robo_auto/cmake/robo_autoConfig.cmake
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/robo_auto/share/robo_auto/cmake/robo_autoConfig-version.cmake /usr/users/promo2018/zhou_fen/catkin_ws/devel/share/robo_auto/cmake/robo_autoConfig-version.cmake

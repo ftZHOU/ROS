@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi/share/roseus/ros/acquisition_biosemi/manifest.l

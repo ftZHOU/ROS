@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi/lib/python2.7/dist-packages/acquisition_biosemi/__init__.py

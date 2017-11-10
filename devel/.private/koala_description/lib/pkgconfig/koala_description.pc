@@ -1,0 +1,8 @@
+prefix=/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/koala_description
+
+Name: koala_description
+Description: Description of koala_description
+Version: 0.1.0
+Cflags: 
+Libs: -L/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/koala_description/lib 
+Requires: urdf xacro

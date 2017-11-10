@@ -1,0 +1,8 @@
+prefix=/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/carthoAuto
+
+Name: carthoAuto
+Description: Description of carthoAuto
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/carthoAuto/lib 
+Requires: 

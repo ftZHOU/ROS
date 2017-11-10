@@ -1,0 +1,1 @@
+/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi/share/gennodejs/ros/acquisition_biosemi/msg/biosemi_echantillon.js

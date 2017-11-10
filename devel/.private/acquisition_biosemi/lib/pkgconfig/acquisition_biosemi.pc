@@ -1,0 +1,8 @@
+prefix=/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi
+
+Name: acquisition_biosemi
+Description: Description of acquisition_biosemi
+Version: 0.0.0
+Cflags: -I/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi/include
+Libs: -L/usr/users/promo2018/zhou_fen/catkin_ws/devel/.private/acquisition_biosemi/lib 
+Requires: roscpp rospy std_msgs message_runtime
